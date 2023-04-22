@@ -8,7 +8,7 @@ Technologies
 The project is primarily implemented using SQL Server Management Studio, which provides a comprehensive set of tools for working with databases and SQL queries. Other technologies used include Excel for data cleaning and visualization, and GitHub for version control and project management.
 
 Dataset
-The dataset used for this analysis is the "Prostate Cancer" dataset from the UCI Machine Learning Repository. The dataset contains 569 observations and 10 features. The data was collected by the University of Wisconsin Hospitals, Madison from patients who were undergoing biopsy for suspected prostate cancer.
+The dataset used for this analysis is the "Prostate Cancer" dataset from Kaggle. The dataset contains data on 100 patients who were undergoing biopsy for suspected prostate cancer.
 
 Analysis Steps
 The following steps were taken to analyze the dataset:
