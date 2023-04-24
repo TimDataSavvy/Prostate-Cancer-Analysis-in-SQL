@@ -24,7 +24,9 @@ The dataset was cleaned using Excel to remove any missing values and ensure cons
 <img width="971" alt="2023-04-22 (1)" src="https://user-images.githubusercontent.com/130006517/233794327-f156eeed-d803-4aad-a64f-9eb1d6701f9c.png">
 
 
-Exploratory data analysis: Basic descriptive statistics and visualizations were generated using SQL to get a better understanding of the dataset, including mean, median, standard deviation, and histograms.
+Exploratory data analysis:
+
+Basic descriptive statistics and visualizations were generated using SQL to get a better understanding of the dataset, including mean, median, standard deviation, and histograms.
 
 <img width="971" alt="2023-04-22 (2)" src="https://user-images.githubusercontent.com/130006517/233794444-4956d491-d218-4dc9-8d41-f1c0e9f5bed9.png">
 <img width="971" alt="2023-04-22 (3)" src="https://user-images.githubusercontent.com/130006517/233794447-ff2f8ff4-d1fb-4ee6-a269-81aac61b9394.png">
