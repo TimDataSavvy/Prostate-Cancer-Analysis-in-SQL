@@ -1,4 +1,4 @@
-Prostate Cancer Analysis with SQL
+Prostate Cancer Analysis with SQL.
 This repository contains the code and results of an analysis of a prostate cancer dataset using SQL.
 
 Project Overview
