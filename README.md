@@ -33,7 +33,8 @@ Exploratory data analysis: Basic descriptive statistics and visualizations were 
 
 
 
-Results
+Results:
+
 The analysis revealed several important findings:
 
 Features such as radius, texture, and perimeter were strongly correlated with malignancy.
