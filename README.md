@@ -1,19 +1,25 @@
 Prostate Cancer Analysis with SQL.
 This repository contains the code and results of an analysis of a prostate cancer dataset using SQL.
 
-Project Overview
+Project Overview:
+
 The goal of this project is to analyze a dataset of prostate cancer diagnoses and provide insights into factors that contribute to malignancy. The dataset contains information on patient id, diagnosis result (malignant or benign), and various features such as radius, texture, perimeter, area, smoothness, compactness, symmetry, and fractal dimension. The project uses SQL to perform data cleaning and exploratory data analysis.
 
-Technologies
+Technologies:
+
 The project is primarily implemented using SQL Server Management Studio, which provides a comprehensive set of tools for working with databases and SQL queries. Other technologies used include Excel for data cleaning and visualization, and GitHub for version control and project management.
 
-Dataset
+Dataset:
+
 The dataset used for this analysis is the "Prostate Cancer" dataset from Kaggle. The dataset contains data on 100 patients who were undergoing biopsy for suspected prostate cancer.
 
-Analysis Steps
+Analysis Steps:
+
 The following steps were taken to analyze the dataset:
 
-Data cleaning: The dataset was cleaned using Excel to remove any missing values and ensure consistency in data types.
+Data cleaning:
+
+The dataset was cleaned using Excel to remove any missing values and ensure consistency in data types.
 
 <img width="971" alt="2023-04-22 (1)" src="https://user-images.githubusercontent.com/130006517/233794327-f156eeed-d803-4aad-a64f-9eb1d6701f9c.png">
 
