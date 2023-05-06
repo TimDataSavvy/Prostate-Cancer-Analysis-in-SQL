@@ -28,7 +28,11 @@ Basic descriptive statistics and visualizations were generated using SQL to get 
 
 **Results:**
 
-The analysis revealed several important findings: Features such as radius, texture, and perimeter were strongly correlated with malignancy.
+The analysis revealed several important findings: 
+1. Features such as radius, texture, and perimeter were strongly correlated with malignancy.
+2. The mean values of the features for malignant tumors were consistently higher than those for benign tumors.
+3. The feature with the strongest correlation with malignancy was perimeter, followed by radius and texture.
+4. The correlation between radius and perimeter was very high, indicating that these features are measuring similar aspects of the tumors.
 
 **Conclusion:**
 
