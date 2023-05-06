@@ -1,4 +1,4 @@
-**Prostate Cancer Analysis with SQL.**
+**Prostate Cancer Analysis with SQL**
 
 The goal of this project is to analyze a dataset of prostate cancer diagnoses and provide insights into factors that contribute to malignancy. The dataset contains information on patient id, diagnosis result (malignant or benign), and various features such as radius, texture, perimeter, area, smoothness, compactness, symmetry, and fractal dimension. The project uses SQL to perform data cleaning and exploratory data analysis.
 
