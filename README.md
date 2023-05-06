@@ -42,12 +42,12 @@ The analysis revealed several important findings:
 Features such as radius, texture, and perimeter were strongly correlated with malignancy.
 
 
-Conclusion
+Conclusion:
 
 
 The analysis of the prostate cancer dataset using SQL revealed several important insights into the factors that contribute to malignancy. The results suggest that features such as radius, texture, and perimeter are strongly correlated with malignancy, and that a logistic regression model built on these features can predict malignancy with high accuracy. The decision tree analysis identified radius as the most important predictor of malignancy, which could be useful for clinical decision-making. Overall, the project demonstrates the value of using SQL for data analysis, particularly in the context of medical research.
 
-Future Work
+Future Work:
 
 
 There are several potential avenues for future work with this analysis. One possibility is to explore other machine learning models, such as support vector machines or random forests, to see if they can achieve even higher predictive accuracy. Another possibility is to explore other datasets related to prostate cancer or other types of cancer to see if similar insights can be gained. Finally, it may be useful to collaborate with medical professionals to gain a better understanding of how the results of this analysis can be applied in a clinical setting.
